@@ -1,0 +1,23 @@
+[
+    {
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "department": "Business",
+        "jobtitle": "Financial Analyst",
+        "years": 3
+    },
+    {
+        "firstName": "John",
+        "lastName": "Smith",
+        "department": "Human Resources",
+        "jobTitle": "Human Resources Coordinator",
+        "years": 4
+    },
+    {
+        "firstName": "Wendy",
+        "lastName": "Lee",
+        "department": "Administration",
+        "jobTitle": "Receptionist",
+        "years": 8
+    }
+]

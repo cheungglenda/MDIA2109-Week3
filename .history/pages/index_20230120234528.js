@@ -43,7 +43,7 @@ export default function Home() {
           </div>
         </div>
         <div className={styles.meetFounders}>Meet the Founders</div>
-        <div className={styles.founders}>
+        <div className={styles.employees}>
             {information && information.map((info, index) => {
               if(info.department === "Business") { 
                 return (
@@ -53,6 +53,7 @@ export default function Home() {
                     lastname={info.lastName}
                     jobtitle={info.jobTitle}
                     description={info.description}
+                    color="#F4EBD9"
                   /> 
                 )
               }

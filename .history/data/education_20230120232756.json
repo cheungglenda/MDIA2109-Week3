@@ -1,0 +1,16 @@
+[
+        {
+            "firstName": "Yi",
+            "lastName": "Li",
+            "department": "Business",
+            "jobTitle": "Co-Founder",
+            "graduted": 2014
+        },
+        {
+            "firstName": "Jennifer",
+            "lastName": "Smith",
+            "department": "HR",
+            "degree": "Accounting",
+            "graduted": 2010
+        }
+]

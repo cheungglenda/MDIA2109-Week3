@@ -1,0 +1,15 @@
+[
+        {
+            "firstName": "Yi",
+            "lastName": "Li",
+            "jobTitle": "Co-Founder",
+            "contactInfo": "yli@pugmedia.co"
+        },
+        {
+            "firstName": "Jennifer",
+            "lastName": "Smith",
+            "department": "HR",
+            "degree": "Accounting",
+            "graduted": 2010
+        }
+]

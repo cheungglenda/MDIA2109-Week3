@@ -1,0 +1,14 @@
+[
+        {
+            "firstName": "Yi",
+            "lastName": "Li",
+            "department": "Business",
+            "jobTitle": "Co-Founder"
+        },
+        {
+            "firstName": "Jennifer",
+            "lastName": "Smith",
+            "department": "HR",
+            "jobTitle": "Co-Founder"
+        }
+]

@@ -1,0 +1,15 @@
+[
+        {
+            "firstName": "Yi",
+            "lastName": "Li",
+            "department": "Business",
+            "jobTitle": "Co-Founder",
+            "description": "Pug Media Co. does results. We do them best when we do them together, when it is achieved as a team. In all that we do we aspire to wow our clients and their customers with the brilliant work that delivers amazing, measurable results. We strive to make a positive impact, which is at the heart of everything that we do."
+        },
+        {
+            "firstName": "Jennifer",
+            "lastName": "Smith",
+            "department": "HR",
+            "jobTitle": "Co-Founder"
+        }
+]
